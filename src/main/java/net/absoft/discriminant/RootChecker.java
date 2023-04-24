@@ -3,9 +3,9 @@ package net.absoft.discriminant;
 public class RootChecker {
 
     public static void main(String[] args) {
-        int a = 1;
-        int b = 3;
-        int c = 4;
+        int a = -3;
+        int b = 5;
+        int c = -2;
 
 
         double D = (double) (Math.pow(b,2) - 4 * a * c);

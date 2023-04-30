@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="net.absoft.discriminant.RootCheckerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-23T21:18:12" hostname="NB401" time="0.006">
+<testsuite name="net.absoft.discriminant.RootCheckerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-04-30T12:10:00" hostname="NB401" time="0.01">
   <properties/>
-  <testcase name="discriminantNegative" classname="net.absoft.discriminant.RootCheckerTest" time="0.006"/>
+  <testcase name="discriminantNegative" classname="net.absoft.discriminant.RootCheckerTest" time="0.005"/>
+  <testcase name="discriminantPositive" classname="net.absoft.discriminant.RootCheckerTest" time="0.0"/>
+  <testcase name="discriminantZero" classname="net.absoft.discriminant.RootCheckerTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
